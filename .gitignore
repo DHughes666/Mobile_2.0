@@ -2,3 +2,7 @@ fun_app/node_modules
 fun_app/.expo
 fun_app/dist
 fun_app/web-build
+cool_app/node_modules
+cool_app/.expo
+cool_app/dist
+cool_app/web-build
